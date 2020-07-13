@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BFP740
+D 44 GHz transistor
+K NPN Transistor
+$ENDCMP
+#
+#End Doc Library
